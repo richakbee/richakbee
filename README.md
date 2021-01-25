@@ -40,9 +40,9 @@
 #### To know more about me , visit my website [richakbee](https://richakbee.github.io/)
 
 You can reach me at :sparkles:
-* <img align="left" src="https://github.com/richakbee/richakbee/blob/main/static/img/gmail.png"><a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com 
-* <a href="https://www.linkedin.com/in/richa-kaur-931500141/"><img align="left" src="https://github.com/richakbee/richakbee/blob/main/static/img/linkedin.png"></a>
-* <img align="left" src="https://github.com/richakbee/richakbee/blob/main/static/img/twitter.png"><a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com   
+* Write to me : <a href="mailto:richabudhraja8@gmail.com"><img align="left" src="https://github.com/richakbee/richakbee/blob/main/static/img/gmail.png"></a>
+* DM me :<a href="https://www.linkedin.com/in/richa-kaur-931500141/"><img align="left" src="https://github.com/richakbee/richakbee/blob/main/static/img/linkedin.png"></a>
+* Follow me : <a href=https://twitter.com/RK49708829"><img align="left" src="https://github.com/richakbee/richakbee/blob/main/static/img/twitter.png"></a>  
 
 <br>
 :sparkles: happy to help :octocat: :seedling:
