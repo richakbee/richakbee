@@ -1,6 +1,6 @@
 # Business analyst by day, Machine learning hobbyist by night!!
 
-<img align="left" width="200" src="https://github.com/richakbee/richakbee/blob/main/static/img/yogocat.gif">
+<a href="#" > <img align="left" width="200" src="https://github.com/richakbee/richakbee/blob/main/static/img/yogocat.gif"></a>
 
 <img align="right" width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/daftpunktocat-thomas.gif">
 
