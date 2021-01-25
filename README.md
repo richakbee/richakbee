@@ -19,8 +19,8 @@ from [Stanford](https://www.uchicago.edu/) via [Coursera](https://www.coursera.c
 
 
 
-<p align="center">
-  <img width="250" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg">
+<p align="left">
+  <img width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg">
   
 <p>
 
