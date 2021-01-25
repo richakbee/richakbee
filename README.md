@@ -11,29 +11,29 @@
   
 ---
 ##### Completed Bachelors in Computer Science and Technology with honours in Artificial Intelligence 
-#### I am working as Business Analyst. I majorly work on Serving Client adhoc requests by quering data bases , sharing the results and insights in excel and presentations. 
-#### I also work with monthly tableau dashboards reporting .
-#### Recently i have been working with finding cluster segments in customers for targeted marketing using unsupervides learning techniques.
+##### I am working as Business Analyst. I majorly work on Serving Client adhoc requests by quering data bases , sharing the results and insights in excel and presentations. I also work with monthly tableau dashboards reporting .
+#### Recently i have been working with finding cluster segments in customers for targeted marketing using unsupervised Machine learning learning techniques.
 
 #### I love coding .I am  Passionate about learning  in my free time.
 ---
-<img align="right" width="100" src="https://github.com/richakbee/richakbee/blob/main/static/img/vinyltocat.png">
-### Some of my personal projects include:
+<img align="right" width="250" src="https://github.com/richakbee/richakbee/blob/main/static/img/vinyltocat.png">
+
+### Some of my personal projects include :
 
 #### Machine Learning 
-<p align ="left" 
+
 * Insurance Fraud Detection
 * Back Order Prediction
 * Demand Forecasting
 * Big Mart Sales
 * Sentiment Analysis 
-</p>  
+ 
 
 #### Deep Learning 
-<p align ="left" 
+
 * Digit Recognizer android app
 * Dog Breed detector android app
-</p>
+
 
 <img align="left" width="100" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg">
 --  
