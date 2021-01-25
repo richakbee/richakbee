@@ -2,7 +2,7 @@
 
 <a href="#" > <img align="left" width="200" src="https://github.com/richakbee/richakbee/blob/main/static/img/yogocat.gif"></a>
 
-<img align="right" width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/daftpunktocat-thomas.gif">
+<a href="#" ><img align="right" width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/daftpunktocat-thomas.gif"></a>
 
 ### I am Richa Kaur ,Business analyst :woman_technologist: from India :india:
 
@@ -15,7 +15,7 @@
 
 #### I love coding , analysing and looking for patterns in data .I am  Passionate about learning in my free time.
 ---
-<img align="right" width="250" src="https://github.com/richakbee/richakbee/blob/main/static/img/vinyltocat.png">
+<a href="#" ><img align="right" width="250" src="https://github.com/richakbee/richakbee/blob/main/static/img/vinyltocat.png"></a>
 
 ### Some of my personal projects include :
 
@@ -36,7 +36,7 @@
 * Dog Breed detector android app
 
 --- 
-<img align="left" width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg">
+<a href="#" ><img align="left" width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg"></a>
 
 
 #### To know more about me , visit my website [richakbee](https://richakbee.github.io/)
