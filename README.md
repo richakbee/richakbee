@@ -1,4 +1,4 @@
-# Hello World!!
+# Business analyst by day, Machine learning hobbyist by night!!
 
 <img align="left" width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/yogocat.gif">
 
@@ -20,11 +20,23 @@
 <img align="right" width="100" src="https://github.com/richakbee/richakbee/blob/main/static/img/vinyltocat.png">
 ### Some of my personal projects include:
 
-
+#### Machine Learning 
+<p align ="left" 
+* Insurance Fraud Detection
+* Back Order Prediction
+* Demand Forecasting
+* Big Mart Sales
+* Sentiment Analysis 
 </p>  
 
+#### Deep Learning 
+<p align ="left" 
+* Digit Recognizer android app
+* Dog Breed detector android app
+</p>
+
 <img align="left" width="100" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg">
-  
+--  
 <p align="center">
   You can reach me at :sparkles: :mailbox: <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com</a> :sparkles: happy to help :octocat: :seedling:
 </p>
