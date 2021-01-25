@@ -31,8 +31,8 @@
 #### Deep Learning 
 
 * Digit Recognizer android app 
-  * MNIST dataset,Tensorflow, Dart,Flutter 
-  * <a href="https://github.com/richakbee/MNIST-digit-recognizer-app">Take me to the project </a>
+  * Technology : MNIST dataset,Tensorflow, Dart,Flutter 
+   <a href="https://github.com/richakbee/MNIST-digit-recognizer-app">Take me to the project </a>
 * Dog Breed detector android app
 
 --- 
