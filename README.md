@@ -34,14 +34,14 @@
 * Dog Breed detector android app
 
 --- 
-<img align="left" width="200" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg">
+<img align="left" width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg">
 
 
 #### To know more about me , visit my website [richakbee](https://richakbee.github.io/)
 
 You can reach me at :sparkles:
 * <img align="left" src="https://github.com/richakbee/richakbee/blob/main/static/img/gmail.png"><a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com 
-* <img align="left" src="https://github.com/richakbee/richakbee/blob/main/static/img/linkedin.png"><a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com 
+* <a href="https://www.linkedin.com/in/richa-kaur-931500141/"><img align="left" src="https://github.com/richakbee/richakbee/blob/main/static/img/linkedin.png"></a>
 * <img align="left" src="https://github.com/richakbee/richakbee/blob/main/static/img/twitter.png"><a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com   
 
 <br>
