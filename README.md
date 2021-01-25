@@ -32,7 +32,7 @@
 
 * Digit Recognizer android app 
   * Technology : MNIST dataset,Tensorflow, Dart,Flutter 
-   <a href="https://github.com/richakbee/MNIST-digit-recognizer-app">Take me to the project </a>
+   <a href="https://github.com/richakbee/MNIST-digit-recognizer-app"><i>See the project</i> </a>
 * Dog Breed detector android app
 
 --- 
