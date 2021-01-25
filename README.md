@@ -36,10 +36,12 @@
 
  
 <img align="left" width="100" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg">
+
 ---
+
 <p align="center">
   You can reach me at :sparkles: :mailbox: <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com</a> :sparkles: happy to help :octocat: :seedling:
 </p>
-<p>
+
 :copyright: for octocat [Octodex](https://octodex.github.com/)
-</p>
+
