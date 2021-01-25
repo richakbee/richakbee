@@ -40,7 +40,7 @@
 #### To know more about me , visit my website [richakbee](https://richakbee.github.io/)
 
 You can reach me at :sparkles:
-* <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com <img width="100" src="https://github.com/richakbee/richakbee/blob/main/static/img/gmail-logo.png">
+* <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com  <img width="100" src="https://github.com/richakbee/richakbee/blob/main/static/img/Gmail-logo.png">
 * <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com  
  
 <br>
