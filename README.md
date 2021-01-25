@@ -11,8 +11,7 @@
   
 ---
 ##### Completed Bachelors in Computer Science and Technology with honours in Artificial Intelligence 
-##### I am working as Business Analyst. I majorly work on Serving Client adhoc requests by quering data bases , sharing the results and insights in excel and presentations. I also work with monthly tableau dashboards reporting .
-#### Recently i have been working with finding cluster segments in customers for targeted marketing using unsupervised Machine learning learning techniques.
+##### I am working as Business Analyst. I majorly work on Serving Client adhoc requests by quering data bases , sharing the results and insights in excel and presentations. I also work with monthly tableau dashboards reporting . Recently i have been working with finding cluster segments in customers for targeted marketing using unsupervised Machine learning learning techniques.
 
 #### I love coding .I am  Passionate about learning  in my free time.
 ---
@@ -26,8 +25,8 @@
 * Back Order Prediction
 * Demand Forecasting
 * Big Mart Sales
-* Sentiment Analysis 
- 
+* Sentiment Analysis
+* Customer Segmentation
 
 #### Deep Learning 
 
@@ -38,7 +37,7 @@
 <img align="left" width="100" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg">
 
 ---
-#### To know more about, visit my site :website: [richakbee.github.io]( (https://richakbee.github.io/)
+#### To know more about, visit my site [richakbee]( (https://richakbee.github.io/)
 
 You can reach me at :sparkles:
 :mailbox: <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com
