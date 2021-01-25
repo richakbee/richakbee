@@ -40,9 +40,9 @@
 #### To know more about me , visit my website [richakbee](https://richakbee.github.io/)
 
 You can reach me at :sparkles:
-* <img align="left" height="25" width="25" src="https://github.com/richakbee/richakbee/blob/main/static/img/Gmail-logo.png"><a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com 
+* <img align="left" src="https://github.com/richakbee/richakbee/blob/main/static/img/gmail.png"><a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com 
   
-* <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com  
+* <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com  
  
 <br>
 :sparkles: happy to help :octocat: :seedling:
