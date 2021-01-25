@@ -37,7 +37,7 @@
 <img align="left" width="100" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg">
 
 ---
-#### To know more about, visit my site [richakbee](https://richakbee.github.io/)
+#### To know more about, visit my site <a href="https://richakbee.github.io/" target="_blank">richakbee</a>
 
 You can reach me at :sparkles:
 :mailbox: <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com
