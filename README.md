@@ -2,7 +2,7 @@
 
 <img align="left" width="200" src="https://github.com/richakbee/richakbee/blob/main/static/img/yogocat.gif">
 
-<img align="right" width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/octotron.png">
+<img align="right" width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/octotron.jpg">
 
 ### I am Richa Kaur ,Business analyst :woman_technologist: from India :india:
 
