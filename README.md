@@ -7,12 +7,12 @@
 ### I am Richa Kaur ,Business analyst :woman_technologist: from India :india:
 
 ##### I am passionate about Machine learning , Natural Language processing and Artificial Intelligence in general. 
-
+---
 ##### Completed Bachelors in Computer Science and Technology with honours in Artificial Intelligence 
 
 from [Stanford](https://www.uchicago.edu/) via [Coursera](https://www.coursera.com/)
 
----
+
 #### I am working as Business Analyst at [Affine Analytics](https://www.affineanalytics.com/). I majorly work on Serving Client adhoc requests etc.
 
 #### I love coding .I am  Passionate about learning  in my free time.
