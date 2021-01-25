@@ -38,14 +38,12 @@
 <img align="left" width="100" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg">
 
 ---
+#### To know more about, visit my site :website: [richakbee.github.io]( (https://richakbee.github.io/)
 
-<p>
-  You can reach me at :sparkles:
-  * :mailbox: <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com</a> 
-  
-  
-  :sparkles: happy to help :octocat: :seedling:
-</p>
-
+You can reach me at :sparkles:
+:mailbox: <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com
+ 
+ <hr>
+:sparkles: happy to help :octocat: :seedling:
 :copyright: for octocat [Octodex](https://octodex.github.com/)
 
