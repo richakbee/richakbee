@@ -34,9 +34,9 @@
 * Digit Recognizer android app
 * Dog Breed detector android app
 
-
+ 
 <img align="left" width="100" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg">
---  
+---
 <p align="center">
   You can reach me at :sparkles: :mailbox: <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com</a> :sparkles: happy to help :octocat: :seedling:
 </p>
