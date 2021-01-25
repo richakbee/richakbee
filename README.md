@@ -43,7 +43,8 @@
 You can reach me at :sparkles:
 :mailbox: <a href="mailto:richabudhraja8@gmail.com">richabudhraja8@gmail.com
  
- <hr>
+ <br>
 :sparkles: happy to help :octocat: :seedling:
+<br>
 :copyright: for octocat [Octodex](https://octodex.github.com/)
 
