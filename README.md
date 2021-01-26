@@ -11,7 +11,7 @@
   
 ---
 ##### Completed Bachelors in Computer Science and Technology with honours in Artificial Intelligence 
-##### I am working as Business Analyst. I majorly work on Serving Client adhoc requests by quering data bases , sharing the results and insights in excel and presentations. I also work with monthly tableau dashboards reporting & automate data fetching from databases using R. Recently i have been working with finding cluster segments in customers for targeted marketing using unsupervised Machine learning techniques.
+##### I am working as Business Analyst. I majorly work on Serving Client adhoc requests by quering data bases , sharing the results and insights in excel and presentations. I also work with monthly tableau dashboards reporting & automate data fetching ,data ingestion etc  using R or Python.(prefer python at personal level). Recently i have been working with finding cluster segments in customers for targeted marketing using unsupervised Machine learning techniques.
 
 #### I love coding , analysing and looking for patterns in data & automating the processes as much as possible.I am  Passionate about learning in my free time.
 ---
