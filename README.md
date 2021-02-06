@@ -1,3 +1,4 @@
+<p align="right"> Updated : 2 Feb , 2021</p>
 # Business analyst by day, Machine learning hobbyist by night!!
 
 <a href="#"><img align="left" width="200" src="https://github.com/richakbee/richakbee/blob/main/static/img/yogocat.gif"></a>
@@ -19,7 +20,7 @@
 
 ### Some of my personal projects include :
 
-#### Machine Learning 
+#### Data Science & Machine Learning 
 
 * Insurance Fraud Detection
 * Back Order Prediction
