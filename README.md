@@ -1,7 +1,7 @@
+<div align="right"> Updated : 2 Feb , 2021</div>
 
 # Business analyst by day, Machine learning hobbyist by night!!
 
-<p align="right"> Updated : 2 Feb , 2021</p>
 
 
 <a href="#"><img align="left" width="200" src="https://github.com/richakbee/richakbee/blob/main/static/img/yogocat.gif"></a>
