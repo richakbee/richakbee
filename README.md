@@ -1,4 +1,4 @@
-<div align="right"> Updated : 2 Feb , 2021</div>
+<div align="right"><b> Updated :</b> 2 Feb , 2021</div>
 
 # Business analyst by day, Machine learning hobbyist by night!!
 
@@ -21,7 +21,7 @@
 ---
 <a href="#" ><img align="right" width="250" src="https://github.com/richakbee/richakbee/blob/main/static/img/vinyltocat.png"></a>
 
-### Some of my personal projects include :
+### Some of my personal projects/work include :
 
 #### Data Science & Machine Learning 
 
