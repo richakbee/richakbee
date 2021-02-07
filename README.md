@@ -52,7 +52,7 @@
 </li>
   <li>Demand Forecasting
     <ul>
-    <li><b> A Regeression problem to forecast the numbers of bikes to be rented at any hour of a day  .</b>|| Solution to Kaggle Challenge - Bike Rental Demand Forecasting System 
+    <li><b> A Regeression problem to forecast the numbers of bikes to be rented at any hour of a day  .</b>|| Solution to <a href="https://www.kaggle.com/c/bike-sharing-demand/overview">Kaggle Challenge </a> : Bike Rental Demand Forecasting System 
     </ul>
   </li>
   <li>Sentiment Analysis 
