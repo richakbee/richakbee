@@ -25,9 +25,9 @@
 
 #### Data Science & Machine Learning 
 
-<ol>
+<ul style="list-style-type:disc;">
   <li>Insurance Fraud Detection
-    <ul>
+    <ul style="color:red;font-size:30px">
   <li>A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.</li>
   <li>Training Pipeline : Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training & Hyper parameter tuning</li>
   <li>Prediction Pipeline :Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction</li>
@@ -39,7 +39,7 @@
 <li>Demand Forecasting</li>
 <li>Sentiment Analysis </li>
 <li>Customer Segmentation</li>
-</ol>
+</ul>
 #### Deep Learning 
 
 * Digit Recognizer android app 
