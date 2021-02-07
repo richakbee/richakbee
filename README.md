@@ -27,10 +27,10 @@
 
 <ul style="list-style-type:disc;">
   <li>Insurance Fraud Detection
-            <ul style="font-size:10px">
-          <li>A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.</li>
-          <p>Training Pipeline : Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training & Hyper                    parameter tuning
-          Prediction Pipeline :Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction
+            <ul >
+          <li><b>A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.</b></li>
+          <p>Training Pipeline : Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training & Hyper                    parameter tuning ||
+          Prediction Pipeline :Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction ||
             Deployment : Flask (developlment) & Google cloud Platform (Production)</p>
         </ul>
   </li>
