@@ -50,9 +50,15 @@
               <b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production) <b> Application logging maintaned</b></p>
         </ul>
 </li>
-  <li>Demand Forecasting</li>
-  <li>Sentiment Analysis </li>
-  <li>Customer Segmentation</li>
+  <li>Demand Forecasting
+    <ul>
+    <li><b> A Regeression problem to forecast the numbers of bikes to be rented at any hour of a day  .</b>|| Solution to Kaggle Challenge - Bike Rental Demand Forecasting System 
+    </ul>
+  </li>
+  <li>Sentiment Analysis 
+  </li>
+  <li>Customer Segmentation
+  </li>
 </ul>
 
 #### Deep Learning 
