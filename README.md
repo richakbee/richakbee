@@ -63,6 +63,10 @@
     </ul>
  </li>
   <li>Customer Segmentation
+    <ul>
+      <li><b> Identifying Cluster Segments in Customer data for targeted Marketing .</b></li>
+      <li> Cluster profiling in excel || Presentation prepared for the marketing incharge </li>
+    </ul>  
   </li>
 </ul>
 
