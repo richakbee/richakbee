@@ -29,13 +29,27 @@
   <li>Insurance Fraud Detection
             <ul >
           <li><b>A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.</b></li>
-          <p>Training Pipeline : Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training & Hyper                    parameter tuning ||
-          Prediction Pipeline :Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction ||
-            Deployment : Flask (developlment) & Google cloud Platform (Production)</p>
+              <p><b>Training Pipeline :</b> Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training &                    Hyperparameter tuning ||
+                <b>Prediction Pipeline :</b>Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction ||
+              </b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production)</p>
         </ul>
   </li>
-  <li>Big Mart Sales</li>
-  <li>Back Order Prediction</li>
+  <li>Big Mart Sales
+      <ul >
+          <li><b>A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.</b></li>
+              <p><b>Training Pipeline :</b> Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training &                    Hyperparameter tuning ||
+                <b>Prediction Pipeline :</b>Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction ||
+              </b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production)</p>
+        </ul>
+  </li>
+  <li>Back Order Prediction
+  <ul >
+          <li><b>A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.</b></li>
+              <p><b>Training Pipeline :</b> Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training &                    Hyperparameter tuning ||
+                <b>Prediction Pipeline :</b>Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction ||
+              </b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production)</p>
+        </ul>
+</li>
   <li>Demand Forecasting</li>
   <li>Sentiment Analysis </li>
   <li>Customer Segmentation</li>
