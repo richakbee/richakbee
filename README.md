@@ -26,6 +26,11 @@
 #### Data Science & Machine Learning 
 
 * Insurance Fraud Detection
+  * A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.
+  * Training Pipeline : Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training & Hyper parameter tuning
+  * Prediction Pipeline :Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction
+  * Deployment : Flask (developlment) & Google cloud Platform (Production)
+
 * Back Order Prediction
 * Demand Forecasting
 * Big Mart Sales
