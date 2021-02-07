@@ -56,6 +56,13 @@
     </ul>
   </li>
   <li>Sentiment Analysis 
+    <ul>
+    <li><b>Part I : A Classification problem to understand sentiment hidden in text & classify if it is positive or negative. (on IMDB movie reviews)</b>|| Data <a href="http://ai.stanford.edu/~amaas/data/sentiment">http://ai.stanford.edu/~amaas/data/sentiment </a> </li>
+      <li><b> Part II : webscraping the IMDB reviews from Imdb.com , to collect data at large scale </b> (done) ||
+        <b>testing the efficiency of model & retraining  </b>(in process)
+        </li>
+      
+    </ul>
   </li>
   <li>Customer Segmentation
   </li>
