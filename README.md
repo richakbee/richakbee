@@ -27,19 +27,20 @@
 
 <ul style="list-style-type:disc;">
   <li>Insurance Fraud Detection
-    <ul style="color:red;font-size:30px">
-  <li>A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.</li>
-  <li>Training Pipeline : Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training & Hyper parameter tuning</li>
-  <li>Prediction Pipeline :Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction</li>
- <li>Deployment : Flask (developlment) & Google cloud Platform (Production)</li>
+            <ul style="font-size:10px">
+          <li>A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.</li>
+          <li>Training Pipeline : Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training & Hyper                    parameter tuning</li>
+          <li>Prediction Pipeline :Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction</li>
+         <li>Deployment : Flask (developlment) & Google cloud Platform (Production)</li>
+        </ul>
+  </li>
+  <li>Big Mart Sales</li>
+  <li>Back Order Prediction</li>
+  <li>Demand Forecasting</li>
+  <li>Sentiment Analysis </li>
+  <li>Customer Segmentation</li>
 </ul>
-</li>
-<li>Big Mart Sales</li>
-<li>Back Order Prediction</li>
-<li>Demand Forecasting</li>
-<li>Sentiment Analysis </li>
-<li>Customer Segmentation</li>
-</ul>
+
 #### Deep Learning 
 
 * Digit Recognizer android app 
