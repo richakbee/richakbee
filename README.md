@@ -31,7 +31,7 @@
           <li><b>A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.</b></li>
               <p><b>Training Pipeline :</b> Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training &                    Hyperparameter tuning ||
                 <b>Prediction Pipeline :</b>Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction ||
-              </b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production) || <b> Application logging maintaned</b></p>
+              <b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production) || <b> Application logging maintaned</b></p>
         </ul>
   </li>
   <li>Big Mart Sales
@@ -39,7 +39,7 @@
           <li><b>A Regression Problem to predict the sales of an item at a particular Outlet.</b></li>
               <p><b>Training Pipeline :</b> Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training &                    Hyperparameter tuning ||
                 <b>Prediction Pipeline :</b>Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction ||
-              </b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production) <b> Application logging maintaned</b></p>
+              <b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production) <b> Application logging maintaned</b></p>
         </ul>
   </li>
   <li>Back Order Prediction
@@ -47,7 +47,7 @@
           <li><b>A Classification Problem to detect if a product could come short & Order has to be cancelled.(inventory management)</b></li>
               <p><b>Training Pipeline :</b> Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training &                    Hyperparameter tuning ||
                 <b>Prediction Pipeline :</b>Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction ||
-              </b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production) <b> Application logging maintaned</b></p>
+              <b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production) <b> Application logging maintaned</b></p>
         </ul>
 </li>
   <li>Demand Forecasting</li>
