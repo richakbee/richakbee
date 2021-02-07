@@ -32,6 +32,7 @@
   <li>Training Pipeline : Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training & Hyper parameter tuning</li>
   <li>Prediction Pipeline :Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction</li>
  <li>Deployment : Flask (developlment) & Google cloud Platform (Production)</li>
+</ul>
 </li>
 <li>Big Mart Sales</li>
 <li>Back Order Prediction</li>
