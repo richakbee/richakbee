@@ -25,18 +25,20 @@
 
 #### Data Science & Machine Learning 
 
-* Insurance Fraud Detection
-  * A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.
-  * Training Pipeline : Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training & Hyper parameter tuning
-  * Prediction Pipeline :Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction
-  * Deployment : Flask (developlment) & Google cloud Platform (Production)
-
-* Back Order Prediction
-* Demand Forecasting
-* Big Mart Sales
-* Sentiment Analysis
-* Customer Segmentation
-
+<ol>
+  <li>Insurance Fraud Detection
+    <ul>
+  <li>A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.</li>
+  <li>Training Pipeline : Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training & Hyper parameter tuning</li>
+  <li>Prediction Pipeline :Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction</li>
+ <li>Deployment : Flask (developlment) & Google cloud Platform (Production)</li>
+</li>
+<li>Big Mart Sales</li>
+<li>Back Order Prediction</li>
+<li>Demand Forecasting</li>
+<li>Sentiment Analysis </li>
+<li>Customer Segmentation</li>
+</ol>
 #### Deep Learning 
 
 * Digit Recognizer android app 
