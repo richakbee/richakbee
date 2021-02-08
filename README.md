@@ -20,10 +20,10 @@
 ### Currently working on ( for the client) :
 
 <ul style="list-style-type:disc;">
-<li>Customer Segmentation
+<li>Customer Segmentation 
     <ul>
       <li><b> Identifying Cluster Segments in Customer data for targeted Marketing .</b></li>
-      <li> Identified Initial set of KPI's & worked with huge transactional data of multiple regions acros U.S || Identified 4 Clusters in data || Cluster profiling in excel || Presentation prepared for the marketing incharge </li>
+      <li> Identified Initial set of KPI's & worked with huge transactional data of customers spread across multiple regions of U.S || Identified 4 Clusters in data || Cluster profiling in excel || Presentation prepared for the marketing incharge </li>
     </ul>  
   </li>
 </ul>
@@ -73,12 +73,6 @@
         <b>testing the efficiency of model & retraining  </b>(in process) </li>
     </ul>
  </li>
-  <li>Customer Segmentation
-    <ul>
-      <li><b> Identifying Cluster Segments in Customer data for targeted Marketing .</b></li>
-      <li> Cluster profiling in excel || Presentation prepared for the marketing incharge </li>
-    </ul>  
-  </li>
 </ul>
 
 #### Deep Learning 
