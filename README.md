@@ -77,10 +77,14 @@
 
 #### Deep Learning 
 
-* Digit Recognizer android app 
-  * Technology : MNIST dataset,Tensorflow, Dart,Flutter 
-   <a href="https://github.com/richakbee/MNIST-digit-recognizer-app"><i>See the project</i> </a>
-* Dog Breed detector android app
+* Digit Recognizer android app <a href="https://github.com/richakbee/MNIST-digit-recognizer-app"><i> See the project</i> </a>
+  * <b>An app that can identify the numbers from the image or when drawn by hand </b> ||Technology : MNIST dataset,Tensorflow, Dart,Flutter 
+   
+
+* Image Classification Web app <a href="https://github.com/richakbee/Image-Classification"><i> See the project</i> </a>
+  * <b>A Flask app that classifies between cats & dogs images when uploaded by a user .||Technology : Tensorflow,Flask app 
+  
+* Dog Breed detector android app (in process)
 
 --- 
 <a href="#" ><img align="left" width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg"></a>
