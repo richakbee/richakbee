@@ -17,13 +17,13 @@
 ##### Completed Bachelors in Computer Science and Technology with honours in Artificial Intelligence 
 ##### I am working as Business Analyst. I majorly work on Serving Client adhoc requests by quering data bases , sharing the results and insights in excel and presentations. I also work with monthly tableau dashboards reporting & automate data fetching ,data ingestion etc  using R or Python.(prefer python at personal level). Recently i have been working with finding cluster segments in customers for targeted marketing using unsupervised Machine learning techniques.
 
-### Current work for the client :
+### Currently working on ( for the client) :
 
 <ul style="list-style-type:disc;">
 <li>Customer Segmentation
     <ul>
       <li><b> Identifying Cluster Segments in Customer data for targeted Marketing .</b></li>
-      <li> Cluster profiling in excel || Presentation prepared for the marketing incharge </li>
+      <li> Identified Initial set of KPI's & worked with huge transactional data of multiple regions acros U.S || Identified 4 Clusters in data || Cluster profiling in excel || Presentation prepared for the marketing incharge </li>
     </ul>  
   </li>
 </ul>
