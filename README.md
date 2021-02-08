@@ -84,7 +84,7 @@
   </li> 
 
  <li>Image Classification Web app <a href="https://github.com/richakbee/Image-Classification"><i> See the project</i> </a>
-    <ul><li><b>A Flask app that classifies between cats & dogs images when uploaded by a user .||Technology : Tensorflow,Flask app 
+  <ul><li><b>A Flask app that classifies between cats & dogs images when uploaded by a user .</b>||Technology : Tensorflow,Flask app 
      </li> </ul>
 </li>   
  <li>Dog Breed detector android app (in process)
