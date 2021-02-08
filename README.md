@@ -76,16 +76,19 @@
 </ul>
 
 #### Deep Learning 
+<ul style="list-style-type:disc;">
+  <li>
+      Digit Recognizer android app <a href="https://github.com/richakbee/MNIST-digit-recognizer-app"><i> See the project</i> </a>
+      <ul><li> <b>An app that can identify the numbers from the image or when drawn by hand </b> ||Technology : MNIST dataset,Tensorflow, Dart,Flutter 
+      </li> </ul>
+  </li> 
 
-* Digit Recognizer android app <a href="https://github.com/richakbee/MNIST-digit-recognizer-app"><i> See the project</i> </a>
-  * <b>An app that can identify the numbers from the image or when drawn by hand </b> ||Technology : MNIST dataset,Tensorflow, Dart,Flutter 
-   
-
-* Image Classification Web app <a href="https://github.com/richakbee/Image-Classification"><i> See the project</i> </a>
-  * <b>A Flask app that classifies between cats & dogs images when uploaded by a user .||Technology : Tensorflow,Flask app 
-  
-* Dog Breed detector android app (in process)
-
+ <li>Image Classification Web app <a href="https://github.com/richakbee/Image-Classification"><i> See the project</i> </a>
+    <ul><li><b>A Flask app that classifies between cats & dogs images when uploaded by a user .||Technology : Tensorflow,Flask app 
+     </li> </ul>
+</li>   
+ <li>Dog Breed detector android app (in process)
+</li>   
 --- 
 <a href="#" ><img align="left" width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg"></a>
 
