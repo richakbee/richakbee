@@ -89,6 +89,7 @@
 </li>   
  <li>Dog Breed detector android app (in process)
 </li>   
+</ul>
 --- 
 <a href="#" ><img align="left" width="150" src="https://github.com/richakbee/richakbee/blob/main/static/img/octobiwan.jpg"></a>
 
