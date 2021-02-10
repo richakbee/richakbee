@@ -1,4 +1,4 @@
-<label align="left"><b>#OpenToWork</b> : Data Science , Machine learning .</label><label align="right"><b> Updated :</b> 2 Feb , 2021</label>
+<span align="left"><b>#OpenToWork</b> : Data Science , Machine learning .</span><span align="right"><b> Updated :</b> 2 Feb , 2021</span>
 
 # Business analyst by day, Machine learning hobbyist by night!!
 
