@@ -1,11 +1,6 @@
-<style>
-span.up {
-  float: right;
-}
-</style>
 
 <div>
-<span ><b>#OpenToWork</b> : Data Science , Machine learning .</span><span id="up" ><b> Updated :</b> 2 Feb , 2021</span>
+<span ><b>#OpenToWork</b> : Data Science , Machine learning .</span><div align="right"><b> Updated :</b> 2 Feb , 2021</div>
 </div>
 # Business analyst by day, Machine learning hobbyist by night!!
 
