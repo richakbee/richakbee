@@ -1,5 +1,12 @@
-<span align="left"><b>#OpenToWork</b> : Data Science , Machine learning .</span><span align="right"><b> Updated :</b> 2 Feb , 2021</span>
+<style>
+span.up {
+  float: right;
+}
+</style>
 
+<div>
+<span ><b>#OpenToWork</b> : Data Science , Machine learning .</span><span id="up" ><b> Updated :</b> 2 Feb , 2021</span>
+</div>
 # Business analyst by day, Machine learning hobbyist by night!!
 
 
