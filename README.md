@@ -69,10 +69,10 @@
     <li><b> A Regeression problem to forecast the numbers of bikes to be rented at any hour of a day  .</b>|| Solution to <a href="https://www.kaggle.com/c/bike-sharing-demand/overview">Kaggle Challenge </a> : Bike Rental Demand Forecasting System 
     </ul>
   </li>
-  <li>Sentiment Analysis 
+  <li>Sentiment Analysis <a href="https://github.com/richakbee/Sentiment-Analysis/blob/main/Senitment%20analysis%20Use%20Case.ipynb"><i> See the notebook</i> </a>
     <ul>  
       <li><b>Part I : A Classification problem to understand sentiment hidden in text & classify if it is positive or negative. (on IMDB movie reviews)</b>|| Data <a                     href="http://ai.stanford.edu/~amaas/data/sentiment">http://ai.stanford.edu/~amaas/data/sentiment </a> </li>
-      <li><b> Part II : webscraping the IMDB reviews from Imdb.com , to collect data at large scale </b> (done) ||
+      <li><b> Part II :  webscraping the IMDB reviews from Imdb.com ,<a href="https://github.com/richakbee/Sentiment-Analysis/blob/main/get%20all%20reviews%20of%20movie(from%20code).ipynb"><i>see notebook </i></a> to collect data at large scale </b> (done) ||
         <b>testing the efficiency of model & retraining  </b>(in process) </li>
     </ul>
  </li>
