@@ -64,9 +64,9 @@
               <b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production) <b> Application logging maintaned</b></p>
         </ul>
 </li>
-  <li>Demand Forecasting
+  <li>Demand Forecasting<a href="https://github.com/richakbee/Demand-Forecasting/blob/main/Demand%20Forecasting.ipynb"><i>(quick: See the notebook</i> </a>
     <ul>
-    <li><b> A Regeression problem to forecast the numbers of bikes to be rented at any hour of a day  .</b>|| Solution to <a href="https://www.kaggle.com/c/bike-sharing-demand/overview">Kaggle Challenge </a> : Bike Rental Demand Forecasting System 
+    <li><b> A Regeression problem to forecast the numbers of bikes to be rented at any hour of a day  .</b>|| Solution to <a href="https://www.kaggle.com/c/bike-sharing-demand/overview">Kaggle Challenge </a> : Bike Rental Demand Forecasting System<a href="https://github.com/richakbee/Demand-Forecasting">See the project</a> 
     </ul>
   </li>
   <li>Sentiment Analysis <a href="https://github.com/richakbee/Sentiment-Analysis/blob/main/Senitment%20analysis%20Use%20Case.ipynb"><i> See the notebook</i> </a>
