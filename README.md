@@ -40,9 +40,9 @@
 #### Data Science & Machine Learning 
 
 <ul style="list-style-type:disc;">
-  <li>Insurance Fraud Detection
+  <li>Insurance Fraud Detection<a href="https://nbviewer.jupyter.org/github/richakbee/Insurance-Fraud-Prediction/blob/main/EDA/InsuranceFraud_EDA.ipynb" target="_blank"><i>(quick: See the notebook)</i> </a>
             <ul >
-          <li><b>A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.</b></li>
+          <li><b>A Classification Problem to detect if the insuarnce claim is fraudulent or genuine.</b><a href="https://github.com/richakbee/Insurance-Fraud-Prediction" target="_blank">See the project</a> </li>
               <p><b>Training Pipeline :</b> Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training &                    Hyperparameter tuning ||
                 <b>Prediction Pipeline :</b>Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction ||
               <b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production) || <b> Application logging maintaned</b></p>
