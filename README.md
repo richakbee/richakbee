@@ -56,9 +56,9 @@
               <b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production) <b> Application logging maintaned</b></p>
         </ul>
   </li>
-  <li>Back Order Prediction
+  <li>Back Order Prediction<a href="#" target="_blank"><i>(quick: See the notebook)</i> </a>
   <ul >
-          <li><b>A Classification Problem to detect if a product could come short & Order has to be cancelled.(inventory management)</b></li>
+          <li><b>A Classification Problem to detect if a product could come short & Order has to be cancelled.(inventory management)</b><a href="https://github.com/richakbee/Back-Order-Prediction" target="_blank">See the project</a> </li>
               <p><b>Training Pipeline :</b> Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training &                    Hyperparameter tuning ||
                 <b>Prediction Pipeline :</b>Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Prediction ||
               <b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production) <b> Application logging maintaned</b></p>
