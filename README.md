@@ -48,7 +48,7 @@
               <b>Deployment :</b> Flask (developlment) & Google cloud Platform (Production) || <b> Application logging maintaned</b></p>
         </ul>
   </li>
-  <li>Big Mart Sales<a href="https://github.com/richakbee/Big-Mart-Sales/blob/main/EDA/BigMartSales_EDA.ipynb" target="_blank"><i>(quick: See the notebook)</i> </a>
+  <li>Big Mart Sales<a href="https://nbviewer.jupyter.org/github/richakbee/Big-Mart-Sales/blob/5ff06d8caff5e2c8d04bcad3cb9c7a4356804915/EDA/BigMartSales_EDA.ipynb" target="_blank"><i>(quick: See the notebook)</i> </a>
       <ul >
           <li><b>A Regression Problem to predict the sales of an item at a particular Outlet.</b><a href="https://github.com/richakbee/Big-Mart-Sales" target="_blank">See the project</a> </li>
               <p><b>Training Pipeline :</b> Client Data Validation--> Data Ingestion-->Exploratory Data Analysis-->Data Preprocessing & Feature Engineering-->Model Training &                    Hyperparameter tuning ||
